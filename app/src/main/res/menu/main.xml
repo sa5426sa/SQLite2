@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuInput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Enter Data" />
+    <item
+        android:id="@+id/menuGradeInput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Enter Grade Data" />
+    <item
+        android:id="@+id/menuShowAll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Show ALL Data" />
+    <item
+        android:id="@+id/menuShowSort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Show Data w/ Sorting" />
+    <item
+        android:id="@+id/menuCredits"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Credits" />
+</menu>
